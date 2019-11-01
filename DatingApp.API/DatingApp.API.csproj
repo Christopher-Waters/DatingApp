@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
-  <ItemGroup>&#xD;
+  <ItemGroup>&#xD;&#xD;
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="IdentityModel" Version="4.0.0"/>
@@ -18,5 +18,6 @@
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2"/>
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.5.0"/>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0"/>
+    <PackageReference Include="CloudinaryDotNet" Version="1.8.0"/>
   </ItemGroup>
 </Project>
