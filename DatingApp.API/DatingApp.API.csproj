@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
-  <ItemGroup>&#xD;&#xD;
+  <ItemGroup>&#xD;&#xD;&#xD;
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="IdentityModel" Version="4.0.0"/>
