@@ -3,7 +3,6 @@ import { AuthService } from '../_services/Auth.service';
 import { AlertifyService } from '../_services/alertify.service';
 import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 import { Router } from '@angular/router';
-import { runInThisContext } from 'vm';
 
 @Component({
   selector: 'app-nav',
